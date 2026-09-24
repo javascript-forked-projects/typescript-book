@@ -5,6 +5,11 @@ import { defaultLocale, locales } from './src/config/locales.ts';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://gibbok.github.io',
+  vite: {
+    server: {
+      allowedHosts: ['typescript.libardo-apps.es']
+    }
+  },
   base: '/',
   build: {
     assets: 'app_assets',
