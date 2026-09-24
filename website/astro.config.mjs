@@ -134,7 +134,7 @@ gtag('config', 'G-SR2LV8LB90');
       components: {
         PageFrame: './src/components/PageFrame.astro',
         PageTitle: './src/components/PageTitle.astro',
-        PageSidebar: './src/components/RightSidebarBanner.astro',
+       
         Hero: './src/components/Hero.astro',
       },
       social: {
