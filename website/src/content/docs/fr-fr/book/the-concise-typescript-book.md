@@ -17,7 +17,7 @@ Je suis convaincu qu'une formation technique de qualité doit être accessible �
 Découvrez **The Concise TypeScript Book Plus Edition**.
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/fr-fr/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/fr-fr/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="Couverture de The Concise TypeScript Book Plus Edition"
@@ -36,5 +36,5 @@ La Plus Edition comprend :
 
 En achetant la Plus Edition, vous soutenez aussi directement la poursuite du développement et de la maintenance du livre gratuit et open source.
 
-La Plus Edition est disponible en anglais et en italien sur Amazon dans le monde entier. [Découvrez la Plus Edition et achetez-la sur Amazon](https://gibbok.github.io/typescript-book/plus-edition/?utm_source=github&utm_medium=readme).
+La Plus Edition est disponible en anglais et en italien sur Amazon dans le monde entier. [Découvrez la Plus Edition et achetez-la sur Amazon](https://typescript.libardo-apps.es/plus-edition/?utm_source=github&utm_medium=readme).
 

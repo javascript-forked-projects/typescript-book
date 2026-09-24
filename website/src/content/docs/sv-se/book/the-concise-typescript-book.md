@@ -17,7 +17,7 @@ Jag anser att teknisk utbildning av hög kvalitet ska vara tillgänglig för all
 Upptäck **The Concise TypeScript Book Plus Edition**.
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/sv-se/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/sv-se/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="Omslaget till The Concise TypeScript Book Plus Edition"
@@ -36,5 +36,5 @@ Plus-utgåvan innehåller:
 
 Genom att köpa Plus-utgåvan stöder du också direkt den fortsatta utvecklingen och underhållet av den kostnadsfria boken med öppen källkod.
 
-Plus-utgåvan finns på engelska och italienska på Amazon världen över. [Utforska Plus-utgåvan och köp den på Amazon](https://gibbok.github.io/typescript-book/sv-se/plus-edition/).
+Plus-utgåvan finns på engelska och italienska på Amazon världen över. [Utforska Plus-utgåvan och köp den på Amazon](https://typescript.libardo-apps.es/sv-se/plus-edition/).
 

@@ -12,5 +12,5 @@ Sie können außerdem die EPUB-Version herunterladen:
 
 Eine Online-Version ist verfügbar unter:
 
-[https://gibbok.github.io/typescript-book](https://gibbok.github.io/typescript-book)
+[https://typescript.libardo-apps.es](https://typescript.libardo-apps.es)
 

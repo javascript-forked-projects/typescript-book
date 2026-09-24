@@ -12,5 +12,5 @@ EPUB 버전도 다운로드할 수 있습니다.
 
 온라인 버전은 다음에서 이용할 수 있습니다.
 
-[https://gibbok.github.io/typescript-book](https://gibbok.github.io/typescript-book)
+[https://typescript.libardo-apps.es](https://typescript.libardo-apps.es)
 

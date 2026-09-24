@@ -17,7 +17,7 @@ sidebar:
 Познакомьтесь с **расширенным изданием «Краткой книги по TypeScript»**.
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/ru-ru/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/ru-ru/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="The Concise TypeScript Book Plus Edition cover"
@@ -36,5 +36,5 @@ sidebar:
 
 Приобретая расширенное издание, вы также напрямую поддерживаете дальнейшую разработку и сопровождение бесплатной книги с открытым исходным кодом.
 
-Расширенное издание на английском и итальянском языках доступно на Amazon по всему миру. [Узнайте больше о расширенном издании и купите его на Amazon](https://gibbok.github.io/typescript-book/plus-edition/?utm_source=github&utm_medium=readme).
+Расширенное издание на английском и итальянском языках доступно на Amazon по всему миру. [Узнайте больше о расширенном издании и купите его на Amazon](https://typescript.libardo-apps.es/plus-edition/?utm_source=github&utm_medium=readme).
 

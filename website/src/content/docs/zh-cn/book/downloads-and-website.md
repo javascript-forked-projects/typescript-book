@@ -12,5 +12,5 @@ sidebar:
 
 在线版本可在以下位置获得：
 
-[https://gibbok.github.io/typescript-book](https://gibbok.github.io/typescript-book)
+[https://typescript.libardo-apps.es](https://typescript.libardo-apps.es)
 

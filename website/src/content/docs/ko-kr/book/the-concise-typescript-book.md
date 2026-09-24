@@ -17,7 +17,7 @@ The Concise TypeScript Book은 TypeScript의 기능을 포괄적이면서도 간
 **The Concise TypeScript Book Plus Edition**을 만나 보세요.
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/ko-kr/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/ko-kr/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="The Concise TypeScript Book Plus Edition 표지"
@@ -36,5 +36,5 @@ Plus Edition에는 다음 내용이 포함됩니다.
 
 Plus Edition을 구매하면 무료 오픈 소스 도서의 지속적인 개발과 유지 관리도 직접 후원하게 됩니다.
 
-Plus Edition은 전 세계 Amazon에서 영어와 이탈리아어로 제공됩니다. [Plus Edition을 살펴보고 Amazon에서 구매하기](https://gibbok.github.io/typescript-book/plus-edition/?utm_source=github&utm_medium=readme).
+Plus Edition은 전 세계 Amazon에서 영어와 이탈리아어로 제공됩니다. [Plus Edition을 살펴보고 Amazon에서 구매하기](https://typescript.libardo-apps.es/plus-edition/?utm_source=github&utm_medium=readme).
 

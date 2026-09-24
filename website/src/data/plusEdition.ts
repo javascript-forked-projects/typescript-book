@@ -43,7 +43,7 @@ const LOCALE_BY_LANG: Readonly<Record<string, PlusEditionLocale>> = {
 	'ru-ru': 'ru-ru',
 };
 
-export const PLUS_EDITION_BASE_PATH = '/typescript-book';
+export const PLUS_EDITION_BASE_PATH = '';
 export const PLUS_EDITION_PATH = `${PLUS_EDITION_BASE_PATH}/plus-edition/`;
 
 export const PLUS_EDITION_COVERS: Readonly<Record<PlusEditionLocale, string>> = {

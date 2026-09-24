@@ -12,5 +12,5 @@ sidebar:
 
 เวอร์ชันออนไลน์พร้อมใช้งานที่:
 
-[https://gibbok.github.io/typescript-book](https://gibbok.github.io/typescript-book)
+[https://typescript.libardo-apps.es](https://typescript.libardo-apps.es)
 

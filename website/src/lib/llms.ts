@@ -3,7 +3,7 @@ import { defaultLocale, locales, type Locale } from '../config/locales';
 
 type DocsEntry = CollectionEntry<'docs'>;
 
-const siteBaseUrl = 'https://gibbok.github.io/typescript-book';
+const siteBaseUrl = 'https://typescript.libardo-apps.es';
 
 export const utf8Bom = '\uFEFF';
 

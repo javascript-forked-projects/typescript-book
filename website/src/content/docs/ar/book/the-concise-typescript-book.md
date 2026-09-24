@@ -17,7 +17,7 @@ sidebar:
 اكتشف **الإصدار Plus Edition من كتاب TypeScript الموجز**.
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/ar/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/ar/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="غلاف الإصدار Plus Edition من كتاب TypeScript الموجز"
@@ -36,5 +36,5 @@ sidebar:
 
 من خلال شراء الإصدار Plus Edition، فإنك تدعم مباشرةً أيضًا استمرار تطوير الكتاب المجاني مفتوح المصدر وصيانته.
 
-يتوفر الإصدار Plus Edition باللغتين الإنجليزية والإيطالية على Amazon في جميع أنحاء العالم. [استكشف الإصدار Plus Edition واشتره من Amazon](https://gibbok.github.io/typescript-book/plus-edition/?utm_source=github&utm_medium=readme).
+يتوفر الإصدار Plus Edition باللغتين الإنجليزية والإيطالية على Amazon في جميع أنحاء العالم. [استكشف الإصدار Plus Edition واشتره من Amazon](https://typescript.libardo-apps.es/plus-edition/?utm_source=github&utm_medium=readme).
 

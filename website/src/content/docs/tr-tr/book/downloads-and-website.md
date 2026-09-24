@@ -12,5 +12,5 @@ EPUB sürümünü de indirebilirsiniz:
 
 Çevrimiçi sürüme buradan ulaşabilirsiniz:
 
-[https://gibbok.github.io/typescript-book](https://gibbok.github.io/typescript-book)
+[https://typescript.libardo-apps.es](https://typescript.libardo-apps.es)
 

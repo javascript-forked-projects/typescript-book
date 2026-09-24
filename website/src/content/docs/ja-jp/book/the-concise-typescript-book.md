@@ -17,7 +17,7 @@ sidebar:
 **The Concise TypeScript Book Plus Edition** をご覧ください。
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/ja-jp/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/ja-jp/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="The Concise TypeScript Book Plus Edition の表紙"
@@ -36,5 +36,5 @@ Plus Edition には以下が含まれます。
 
 Plus Edition をご購入いただくことで、無料のオープンソース版の継続的な開発と保守を直接支援することにもなります。
 
-Plus Edition は、世界各国の Amazon で英語版とイタリア語版を入手できます。[Plus Edition の詳細を確認し、Amazon で購入する](https://gibbok.github.io/typescript-book/plus-edition/?utm_source=github&utm_medium=readme)。
+Plus Edition は、世界各国の Amazon で英語版とイタリア語版を入手できます。[Plus Edition の詳細を確認し、Amazon で購入する](https://typescript.libardo-apps.es/plus-edition/?utm_source=github&utm_medium=readme)。
 

@@ -12,5 +12,5 @@ Bạn cũng có thể tải xuống phiên bản EPUB:
 
 Phiên bản trực tuyến có tại:
 
-[https://gibbok.github.io/typescript-book](https://gibbok.github.io/typescript-book)
+[https://typescript.libardo-apps.es](https://typescript.libardo-apps.es)
 

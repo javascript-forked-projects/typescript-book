@@ -5,10 +5,10 @@ test('exposes an llms.txt index for the documentation', async ({ page }) => {
 
   await expect(page.locator('body')).toContainText('# TypeScript Book');
   await expect(page.locator('body')).toContainText(
-    '[Readonly Properties](https://gibbok.github.io/typescript-book/book/readonly-properties/index.md)',
+    '[Readonly Properties](https://typescript.libardo-apps.es/book/readonly-properties/index.md)',
   );
   await expect(page.locator('body')).toContainText(
-    '[Table of Contents](https://gibbok.github.io/typescript-book/book/table-of-contents/index.md): Table of Contents',
+    '[Table of Contents](https://typescript.libardo-apps.es/book/table-of-contents/index.md): Table of Contents',
   );
 });
 

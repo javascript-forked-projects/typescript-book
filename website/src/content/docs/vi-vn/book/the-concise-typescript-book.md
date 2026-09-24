@@ -17,7 +17,7 @@ Tôi tin rằng giáo dục kỹ thuật chất lượng cao nên dễ dàng ti�
 Khám phá **The Concise TypeScript Book Plus Edition**.
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/vi-vn/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/vi-vn/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="Bìa The Concise TypeScript Book Plus Edition"
@@ -36,5 +36,5 @@ Plus Edition bao gồm:
 
 Khi mua Plus Edition, bạn cũng trực tiếp hỗ trợ việc tiếp tục phát triển và duy trì cuốn sách miễn phí và mã nguồn mở.
 
-Plus Edition hiện có bằng tiếng Anh và tiếng Ý trên Amazon toàn cầu. [Khám phá Plus Edition và mua trên Amazon](https://gibbok.github.io/typescript-book/plus-edition/?utm_source=github&utm_medium=readme).
+Plus Edition hiện có bằng tiếng Anh và tiếng Ý trên Amazon toàn cầu. [Khám phá Plus Edition và mua trên Amazon](https://typescript.libardo-apps.es/plus-edition/?utm_source=github&utm_medium=readme).
 

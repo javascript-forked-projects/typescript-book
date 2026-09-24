@@ -17,7 +17,7 @@ The Concise TypeScript Book предоставя изчерпателен и к�
 Открийте **The Concise TypeScript Book Plus Edition**.
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/bg-bg/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/bg-bg/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="Корица на The Concise TypeScript Book Plus Edition"
@@ -36,5 +36,5 @@ The Concise TypeScript Book предоставя изчерпателен и к�
 
 С покупката на разширеното издание подкрепяте пряко и продължаващото развитие и поддръжка на безплатната книга с отворен код.
 
-Разширеното издание е достъпно на английски и италиански език в Amazon по целия свят. [Разгледайте разширеното издание и го купете от Amazon](https://gibbok.github.io/typescript-book/bg-bg/plus-edition/).
+Разширеното издание е достъпно на английски и италиански език в Amazon по целия свят. [Разгледайте разширеното издание и го купете от Amazon](https://typescript.libardo-apps.es/bg-bg/plus-edition/).
 

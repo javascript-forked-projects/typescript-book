@@ -17,7 +17,7 @@ sidebar:
 ทำความรู้จักกับ **หนังสือ TypeScript ฉบับกระชับ Plus Edition**
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/th-th/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/th-th/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="ปกหนังสือ TypeScript ฉบับกระชับ Plus Edition"
@@ -36,5 +36,5 @@ Plus Edition ประกอบด้วย:
 
 การซื้อ Plus Edition ยังเป็นการสนับสนุนโดยตรงให้มีการพัฒนาและดูแลหนังสือฟรีและโอเพนซอร์สเล่มนี้อย่างต่อเนื่อง
 
-Plus Edition มีจำหน่ายทั่วโลกบน Amazon ในภาษาอังกฤษและภาษาอิตาลี [ดูรายละเอียด Plus Edition และซื้อบน Amazon](https://gibbok.github.io/typescript-book/plus-edition/?utm_source=github&utm_medium=readme)
+Plus Edition มีจำหน่ายทั่วโลกบน Amazon ในภาษาอังกฤษและภาษาอิตาลี [ดูรายละเอียด Plus Edition และซื้อบน Amazon](https://typescript.libardo-apps.es/plus-edition/?utm_source=github&utm_medium=readme)
 

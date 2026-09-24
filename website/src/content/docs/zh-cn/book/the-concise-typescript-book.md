@@ -17,7 +17,7 @@ sidebar:
 了解 **The Concise TypeScript Book Plus Edition**。
 
 <!-- markdownlint-disable MD033 MD044 -->
-<a href="https://gibbok.github.io/typescript-book/zh-cn/plus-edition/?utm_source=github&utm_medium=readme">
+<a href="https://typescript.libardo-apps.es/zh-cn/plus-edition/?utm_source=github&utm_medium=readme">
   <img
     src="https://raw.githubusercontent.com/gibbok/typescript-book/main/website/public/images/plus-edition-cover_en.webp"
     alt="The Concise TypeScript Book Plus Edition 封面"
@@ -36,5 +36,5 @@ Plus 版包括：
 
 购买 Plus 版也会直接支持免费开源版图书的持续开发和维护。
 
-Plus 版在全球亚马逊平台提供英文版和意大利文版。[了解 Plus 版并在亚马逊购买](https://gibbok.github.io/typescript-book/zh-cn/plus-edition/)。
+Plus 版在全球亚马逊平台提供英文版和意大利文版。[了解 Plus 版并在亚马逊购买](https://typescript.libardo-apps.es/zh-cn/plus-edition/)。
 
