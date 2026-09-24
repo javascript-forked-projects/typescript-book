@@ -5,7 +5,7 @@ import { defaultLocale, locales } from './src/config/locales.ts';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://gibbok.github.io',
-  base: '/typescript-book',
+  base: '/',
   build: {
     assets: 'app_assets',
   },
@@ -17,13 +17,13 @@ export default defineConfig({
           attrs: {
             rel: 'stylesheet',
             id: 'silktide-consent-manager-css',
-            href: '/typescript-book/cookie-banner/silktide-consent-manager.css',
+            href: '/cookie-banner/silktide-consent-manager.css',
           },
         },
         {
           tag: 'script',
           attrs: {
-            src: '/typescript-book/cookie-banner/silktide-consent-manager.js',
+            src: '/cookie-banner/silktide-consent-manager.js',
           },
         },
         {
@@ -82,7 +82,7 @@ silktideCookieBannerManager.updateCookieBannerConfig({
   ],
   text: {
     banner: {
-      description: "<p>We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. <a href=\\"/typescript-book/cookie_policy.html\\" target=\\"_blank\\">Cookie Policy.</a></p>",
+      description: "<p>We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. <a href=\"/cookie_policy.html\" target=\"_blank\">Cookie Policy.</a></p>",
       acceptAllButtonText: "Accept all",
       acceptAllButtonAccessibleLabel: "Accept all cookies",
       rejectNonEssentialButtonText: "Reject non-essential",
